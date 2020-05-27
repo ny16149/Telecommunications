@@ -1,2 +1,2 @@
 # Telecommunications
-情報通信の板書(H31)
+情報通信のノート(H31)
